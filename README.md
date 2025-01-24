@@ -18,6 +18,7 @@ Este proyecto es una aplicación para organizar un juego de amigo secreto.
 ## Ejecución
 
 Para ejecutar la aplicación, simplemente abre el archivo `index.html` en tu navegador web.
+Tambien puedes jugar con nuestra aplicacion desde el siguiente link https://cristhian0000.github.io/reto-amigo-secreto/
 
 ## Licencia
 
